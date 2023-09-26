@@ -1,4 +1,4 @@
 def sorting(file):
-    print("sorting...")
+    print("sorting....")
     file.sort()
     return file
